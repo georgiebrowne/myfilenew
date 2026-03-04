@@ -18,7 +18,8 @@ Input 6 and 7 are connected to an OR gate.
 ## How to test
 
 Change combinations of inputs to see how logic gates works.
+See what different numbers or letters can be created
 
 ## External hardware
 
-none
+might need some?!
