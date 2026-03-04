@@ -21,4 +21,4 @@ Change combinations of inputs to see how logic gates works.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+none
