@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Different combinations of inputs produce different shapes. 23568 produces a g.
 
 ## How to test
 
-Explain how to use your project
+Change combinations of inputs to see how logic gates works.
 
 ## External hardware
 
